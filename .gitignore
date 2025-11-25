@@ -1,0 +1,12 @@
+# Ignore build outputs
+backend/target/
+frontend/node_modules/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+*.iml
